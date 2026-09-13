@@ -4,7 +4,7 @@ a 13-year-old student interested in coding, robotics, electronics, and engineeri
 
 I enjoy learning how things work and building projects with technology.
 
-🚗 Arduino RC Car
+[Arduino RC Car]
 
 My first documented electronics project was an Arduino-controlled RC car.
 
@@ -19,11 +19,11 @@ Project: PNU V-Space Arduino RC Car Program
 Completed: 2026
 Sessions: 18
 
-🏆 Certificates
+[Certificates]
 
 I will continue adding certificates and projects as I learn and build more.
 
-💻 Future Projects
+[Future Projects]
 
 • ESP32 projects
 • Robotics
